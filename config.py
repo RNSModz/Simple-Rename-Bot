@@ -7,5 +7,5 @@ ADMIN = int(environ.get("ADMIN", "5898278492"))
 CAPTION = environ.get("CAPTION", "rnsmovie")
 
 # for thumbnail ( back end is MrMKN brain 😉)
-DOWNLOAD_LOCATION = "./DOWNLOADS"
+DOWNLOAD_LOCATION = "https://graph.org/file/8581f96bb35622c745b67.jpg"
 
